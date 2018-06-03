@@ -1,7 +1,13 @@
-# Node-js-Social-Network
+# chat-example
 
-Building a Node-js social network, then put a spin on its purpose. Though I'd like to build something for developers. If I get really crazy, this will run on blockchain (likely EOS or TRON unless ETH can keep up!).
+This is the source code for a very simple chat example used for
+the [Getting Started](http://socket.io/get-started/chat/) guide
+of the Socket.IO website.
 
-# Experiment
+Please refer to it to learn how to run this application.
 
-This is just for learning and educational purposes, but I hope you find it usefull.
+You can also spin up a free Heroku dyno to test it out:
+
+[![Deploy](https://www.herokucdn.com/deploy/button.png)](https://heroku.com/deploy?template=https://github.com/socketio/chat-example)
+
+Besides, the application is deployed on [Now](https://zeit.co/now): https://socketio-chat-example.now.sh/
